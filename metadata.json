@@ -1,0 +1,6 @@
+{
+  "name": "Final Destination Game",
+  "description": "A 2D top-down game where the player launches a car across a busy road, trying to avoid collisions and score points. Difficulty increases with score.",
+  "requestFramePermissions": [],
+  "prompt": ""
+}
